@@ -9,6 +9,7 @@ namespace SampleConsoleApp
             Console.WriteLine("Hello World!");
             Console.WriteLine(3 + 5);
             Console.WriteLine(6 + 6);
+            Console.WriteLine(7 + 7);
             Console.ReadLine();
         }
     }
